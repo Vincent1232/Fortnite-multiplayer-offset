@@ -1,0 +1,4 @@
+# Offset Others Offset coming soon.
+- InitHost: 0x4506a0
+- InitListen: 0x450a90
+- SetWorld: 0x2988050
